@@ -17,10 +17,10 @@
             </a>
             <nav class={MenuOpen ? 'open' : ''}>
                 <ul>
-                    <li><a href= "/AboutUs">Rólunk</a></li>
-                    <li><a href= "/RangList">Ranglista</a></li>
-                    <li><a href= "/Booking">Időpontfoglalás</a></li>
-                    <li><a href= "/Rating">Vélemény</a></li>
+                    <li><a href= "/about">Rólunk</a></li>
+                    <li><a href= "/ranglist">Ranglista</a></li>
+                    <li><a href= "/booking">Időpontfoglalás</a></li>
+                    <li><a href= "/rating">Vélemény</a></li>
                 </ul>
             </nav>    
         </div>
