@@ -1,0 +1,3 @@
+Gokart neve,Kezdő gokart,leírás,/gokart1.jpg;
+Gokart neve,Profi gokart,leírás,/gokart2.jpg;
+Gokart neve,Kétfős gokart,leírás,/gokart3.jpg;
