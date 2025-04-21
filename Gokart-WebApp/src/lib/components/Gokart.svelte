@@ -41,18 +41,18 @@
 <style>
 	.gokart-row {
 		display: flex;
-		flex-direction: column; /* Stack items vertically */
-		justify-content: center; /* Center items horizontally */
-		align-items: center; /* Center items vertically */
+		flex-direction: column; 
+		justify-content: center; 
+		align-items: center; 
 		margin-top: 2rem;
 		padding: 1rem;
 	}
 
 	.gokart {
 		display: flex;
-		flex-direction: row; /* Keep text and image side by side */
+		flex-direction: row; 
 		align-items: center;
-		justify-content: center; /* Center items horizontally */
+		justify-content: center; 
 		padding: 1rem;
 		gap: 1.5rem;
 		max-width: 900px;

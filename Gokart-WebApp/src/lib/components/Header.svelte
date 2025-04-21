@@ -20,7 +20,7 @@
                     <li><a href= "/about">Rólunk</a></li>
                     <li><a href= "/ranglist">Ranglista</a></li>
                     <li><a href= "/booking">Időpontfoglalás</a></li>
-                    <li><a href= "/rating">Vélemény</a></li>
+                    <li><a href= "/rating">Vélemények</a></li>
                 </ul>
             </nav>    
         </div>
