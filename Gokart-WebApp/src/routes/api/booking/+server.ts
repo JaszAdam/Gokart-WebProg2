@@ -27,7 +27,7 @@ export const POST = async ({ request }) => {
 
   try {
     const data = await fs.readFile(bookingsFilePath, 'utf-8');
-    const existingBookings = data.split('\n').filter(line => line.trim() !== ''); // Split by newline
+    const existingBookings = data.split('\n').filter(line => line.trim() !== '');
 
     const isDuplicate = existingBookings.some(line => {
       const [name, date, time] = line.split(',');

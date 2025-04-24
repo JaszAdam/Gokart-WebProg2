@@ -33,25 +33,30 @@
     </table>
   </div>
   
-  <style>
+<style>
     .booking-table {
-      margin: 2rem auto;
-      max-width: 600px;
-      text-align: center;
-    }
-  
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-  
-    th, td {
-      padding: 1rem;
-      border: 1px solid #ddd;
-    }
-  
-    th {
-      background-color: #f4f4f4;
-    }
+  margin: 2rem auto;
+  max-width: 600px;
+  width: 100%;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #fff;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
   </style>
   
