@@ -6,6 +6,6 @@
 
 
 <Header />
-<h1>Mondja el mit gondol!</h1>
+<h1>Mondja el mit gondol</h1>
 <RatingInput />
 <RatingOutput />
