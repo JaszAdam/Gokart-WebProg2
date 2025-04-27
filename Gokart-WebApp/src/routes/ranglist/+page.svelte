@@ -6,3 +6,9 @@
 <Header />
 <h1>Ranglista</h1>
 <Ranglist />
+
+<style>
+    h1{
+        text-align: center;
+    }
+</style>

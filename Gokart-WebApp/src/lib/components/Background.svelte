@@ -1,6 +1,5 @@
 <script>
 	import myImage from '$lib/assets/background1.jpg?enhanced';
-
 </script>
 
 <enhanced:img

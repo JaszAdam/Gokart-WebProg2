@@ -84,7 +84,7 @@
 	}
 
 	p {
-		color: #666;
+		color: #4d4d4d;
 	}
 </style>
 

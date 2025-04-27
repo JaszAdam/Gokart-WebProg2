@@ -1,3 +1,3 @@
-Gokart neve,Kezdő gokart,leírás,/gokart1.jpg;
-Gokart neve,Profi gokart,leírás,/gokart2.jpg;
-Gokart neve,Kétfős gokart,leírás,/gokart3.jpg;
+Speedster Rookie,Kezdő gokart,Kezdőknek tervezett gokart könnyű kezelhetőséggel és biztonságos kialakítással.,/gokart1.jpg;
+Velocity Pro,Profi gokart,Profi versenyzőknek szánt nagy teljesítményű gokart a maximális élményért.,/gokart2.jpg;
+Duo Racer,Kétfős gokart,Kétüléses gokart közös szórakozáshoz családtagokkal vagy barátokkal.,/gokart3.jpg;

@@ -9,3 +9,9 @@
 <h1>Mondja el mit gondol</h1>
 <RatingInput />
 <RatingOutput />
+
+<style>
+    h1{
+        text-align: center;
+    }
+</style>

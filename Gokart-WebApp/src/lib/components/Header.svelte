@@ -1,5 +1,5 @@
 <script lang="ts">
-    import logo from '$lib/logo0.png';
+    import logo from '$lib/logo1.png';
     import BurgerMenu from './BurgerMenu.svelte';
 
     let MenuOpen = false;
@@ -38,7 +38,7 @@
         align-items: center;
         justify-content: space-between;
         padding: 1rem 2rem;
-        background-color: rgb(204, 226, 240);
+        background-color: #111111;
         box-shadow: 0 0 10px 0;
     }
     .center{
@@ -55,13 +55,12 @@
     }
     nav a{
         text-decoration: none;
-        color: black;
-        font-family: 'Courier New', Courier, monospace;
+        color: #FFFFFF;
         font-weight: bold;
         font-size: large;
     }
     nav a:hover{
-        color: rgb(58, 58, 58);
+        color: rgb(173, 173, 173);
     }
     :global(body) {
         margin: 0;
@@ -81,7 +80,7 @@
             top: 80px;
             left: 0;
             right: 0;
-            background-color: rgb(204, 226, 240);
+            background-color: #111111;
             padding: 0 1rem;
             z-index: 10;
         }

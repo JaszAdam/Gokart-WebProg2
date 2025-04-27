@@ -4,5 +4,11 @@
 </script>
 
 <Header />
-<h1>A legjobb gokartpálya a világon</h1>
+<h1>Bérelhető gokartok</h1>
 <Gokart />
+
+<style>
+    h1{
+        text-align: center;
+    }
+</style>

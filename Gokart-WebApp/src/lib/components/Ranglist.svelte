@@ -65,9 +65,11 @@
 
 <style>
     table {
-        width: 100%;
+        width: 70%;
         border-collapse: collapse;
         margin-top: 2rem;
+		margin-left: auto;
+    	margin-right: auto;
     }
 
     th, td {

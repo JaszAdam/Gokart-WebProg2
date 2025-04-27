@@ -13,7 +13,6 @@
 </script>
 
 <Header />
-<h1>Időpontfoglalás</h1>
 <Weather />
 
 

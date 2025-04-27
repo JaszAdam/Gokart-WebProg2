@@ -5,3 +5,13 @@
 
 <Header />
 <Background />
+
+<h1>Üdvözlünk a Gokart Arénában!</h1>
+<h2>Fedezd fel változatos gokartjainkat, foglalj időpontot online, és éld át a versenyzés izgalmát egy biztonságos, modern pályán!</h2>
+
+<style>
+    h1,h2{
+        color: white;
+        text-align: center;
+    }
+</style>

@@ -9,7 +9,9 @@
 	});
 </script>
 
+<div class= "weather">
 {#if weather}
+<h2>Időjárás:</h2>
 <img src={`https://openweathermap.org/img/wn/${weather.current.weather[0].icon}@2x.png`}
     alt={weather.current.weather[0].description}
     width="30"
@@ -19,3 +21,10 @@
 {:else}
 	<p>Töltés...</p>
 {/if}
+</div>
+
+<style>
+	.weather{
+		margin-left: 2rem;
+	}
+</style>
