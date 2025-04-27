@@ -23,7 +23,7 @@
     .bar {
       width: 25px;
       height: 3px;
-      background-color: black;
+      background-color: white;
     }
   
     @media (max-width: 768px) {
